@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2015 The CyanogenMod Project
+# Copyright (C) 2015 The AICP Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -26,3 +26,4 @@ PRODUCT_NAME := full_thea
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := thea
 PRODUCT_MANUFACTURER := motorola
+PRODUCT_SHIPPING_API_LEVEL := 19
